@@ -1,2 +1,2 @@
-# Depi---Graduation-project
+# Depi-Graduation-project
 Store Sales Data Analysis
